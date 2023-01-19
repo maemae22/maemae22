@@ -1,5 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YeeunKim&fontSize=70&animation=twinkling)
-<p align="center"></p><br><br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi👋,%20I'm%20Yeeun%20Kim!🤗&fontSize=50&animation=twinkling)
+
+<h2 align="center">STACK</h2>
+
+<p align="center"></p><br>
 
 <!-- Tech Stack 부분 -->
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -15,6 +18,12 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/></a>&nbsp 
   <br>
+</p>
+
+<br><h3 align="center">🛠 Tech Stack 🛠</h3>
+
+<p align="center"> </p>
+<p align="center">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp 
@@ -24,6 +33,12 @@
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=&logoColor=white"/></a>&nbsp
   <br>
+</p>  
+
+<br><h3 align="center">🛠 Tech Stack 🛠</h3>
+
+<p align="center"> </p>
+<p align="center">  
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/></a>&nbsp 
@@ -34,14 +49,16 @@
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp 
+  <br>
 </p>
 
 <br>
-
+<br>
+<h2 align="center">🧸 Me 🧸</h2>
 <!-- ME (Contact 관련) -->
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
-  <a href="https://maemae22.tistory.com/"><img src="https://img.shields.io/badge/%20Tech%20Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://maemae22.tistory.com/"/></a>&nbsp
+  <a href="https://maemae22.tistory.com/"><img src="https://img.shields.io/badge/%20%20Tech%20Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://maemae22.tistory.com/"/></a>&nbsp
   <a href="mailto:maemae2@naver.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=maemae2@naver.com"/></a>
 </p>
 <br>
@@ -53,8 +70,10 @@
 <!-- 깃허브 조회수 -->
 <br>
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaemae22&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaemae22&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=My%20GitHub%20View&edge_flat=false"/>
 </p>
 
 <!-- 깃허브 팔로워 보여주기 -->
 <!-- ![GitHub followers](https://img.shields.io/github/followers/maemae22?style=social) -->
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
