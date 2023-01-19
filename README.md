@@ -50,3 +50,11 @@
 <!-- 3D 레고 블럭 (잔디) -->
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
+<!-- 깃허브 조회수 -->
+<br>
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaemae22&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+</p>
+
+<!-- 깃허브 팔로워 보여주기 -->
+<!-- ![GitHub followers](https://img.shields.io/github/followers/maemae22?style=social) -->
