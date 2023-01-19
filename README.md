@@ -76,8 +76,8 @@
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=maemae22&postId=90&theme=default)](https://maemae22.tistory.com/90)
 
 <!-- github stats -->
-![](https://github.com/maemae22/github-stats-transparent/blob/output/generated/overview.svg)
-![](https://github.com/maemae22/github-stats-transparent/blob/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/maemae22/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/maemae22/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
 <!-- 3D 레고 블럭 (잔디) -->
