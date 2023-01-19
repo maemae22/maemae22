@@ -71,13 +71,18 @@
 </p>
 <br>
 
-
+<div align=center>
+  
 <!-- 티스토리 포스트 -->
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=maemae22&postId=90&theme=default)](https://maemae22.tistory.com/90)
+  
+</div>
 
 <h2></h2>
 <br>
 
+<div align=center>
+  
 <!-- github stats -->
 ![](https://raw.githubusercontent.com/maemae22/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/maemae22/github-stats/master/generated/languages.svg#gh-light-mode-only)
@@ -85,6 +90,8 @@
 
 <!-- 3D 레고 블럭 (잔디) -->
 ![](./profile-3d-contrib/profile-gitblock.svg)
+  
+  </div>
 
 <!-- 깃허브 조회수 -->
 <br>
