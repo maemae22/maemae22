@@ -65,7 +65,6 @@
 <!-- ME (Contact 관련) -->
 <br>
 <h3 align="center"> 📮 Contact 📮 </h3>
-<br>
 <p align="center">
   <a href="https://maemae22.tistory.com/"><img src="https://img.shields.io/badge/%20%20Tech%20Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://maemae22.tistory.com/"/></a>&nbsp
   <a href="mailto:maemae2@naver.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=maemae2@naver.com"/></a>
