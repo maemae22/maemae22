@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi👋,%20I'm%20Yeeun%20Kim!🤗&fontSize=50&animation=twinkling)
 
-<h2 align="center">STACK</h2>
+<h2 align="center">👩‍💻 STACK 👩‍💻</h2>
 
 <p align="center"></p><br>
 
 <!-- Tech Stack 부분 -->
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">📚 BackEnd Tech Stack 📚</h3>
 
 <p align="center"> </p>
 
@@ -20,7 +20,7 @@
   <br>
 </p>
 
-<br><h3 align="center">🛠 Tech Stack 🛠</h3>
+<br><h3 align="center">💽 DataBase Tech Stack 💽</h3>
 
 <p align="center"> </p>
 <p align="center">
@@ -35,7 +35,7 @@
   <br>
 </p>  
 
-<br><h3 align="center">🛠 Tech Stack 🛠</h3>
+<br><h3 align="center">🛠 Tools 🛠</h3>
 
 <p align="center"> </p>
 <p align="center">  
@@ -54,9 +54,10 @@
 
 <br>
 <br>
-<h2 align="center">🧸 Me 🧸</h2>
+<h2 align="center">🧸 About Me 🧸</h2>
 <!-- ME (Contact 관련) -->
-<h3 align="center"> 🧸 Me 🧸 </h3>
+<br>
+<h3 align="center"> 📮 Contact 📮 </h3>
 <p align="center">
   <a href="https://maemae22.tistory.com/"><img src="https://img.shields.io/badge/%20%20Tech%20Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://maemae22.tistory.com/"/></a>&nbsp
   <a href="mailto:maemae2@naver.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=maemae2@naver.com"/></a>
