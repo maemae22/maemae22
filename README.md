@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 <!-- 3D 레고 블럭 (잔디) -->
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
