@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YeeunKim&fontSize=70&animation=twinkling)
-<p align="center"></p>
+<p align="center"></p><br><br>
 
 <!-- Tech Stack 부분 -->
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -22,7 +22,7 @@
   <br>
   <img src="https://img.shields.io/badge/MyBatis-3A3A42?style=flat-square&logo=&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/JDBC-6DB33F?style=flat-square&logo=&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
@@ -36,6 +36,17 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp 
 </p>
 
+<br>
+
+<!-- ME (Contact 관련) -->
+<h3 align="center"> 🧸 Me 🧸 </h3>
+<p align="center">
+  <a href="https://maemae22.tistory.com/"><img src="https://img.shields.io/badge/%20Tech%20Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://maemae22.tistory.com/"/></a>&nbsp
+  <a href="mailto:maemae2@naver.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=maemae2@naver.com"/></a>
+</p>
+<br>
+
 
 <!-- 3D 레고 블럭 (잔디) -->
 ![](./profile-3d-contrib/profile-gitblock.svg)
+
