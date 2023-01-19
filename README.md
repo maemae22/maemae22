@@ -65,6 +65,10 @@
 <br>
 
 
+<!-- 티스토리 포스트 -->
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=maemae22&postId=90&theme=default)](https://maemae22.tistory.com/90)
+
+
 <!-- 3D 레고 블럭 (잔디) -->
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
