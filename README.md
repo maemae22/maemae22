@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi👋,%20I'm%20Yeeun%20Kim!🤗&fontSize=50&animation=twinkling)
 
-<h2 align="center">👩‍💻 STACK 👩‍💻</h2>
+<h3 align="center">👩‍💻 STACK 👩‍💻</h3>
 
 ---
 
@@ -58,7 +58,7 @@
 
 <br>
 <br>
-<h2 align="center">🧸 About Me 🧸</h2>
+<h3 align="center">🧸 About Me 🧸</h3>
 
 ---
 
