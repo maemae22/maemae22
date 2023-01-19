@@ -2,6 +2,8 @@
 
 <h2 align="center">👩‍💻 STACK 👩‍💻</h2>
 
+---
+
 <p align="center"></p><br>
 
 <!-- Tech Stack 부분 -->
@@ -48,13 +50,18 @@
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"/></a>&nbsp 
+  <br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/DBeaver-D6CDC8?style=flat-square&logo=&logoColor=white"/></a>&nbsp 
   <br>
 </p>
 
 <br>
 <br>
 <h2 align="center">🧸 About Me 🧸</h2>
+
+---
+
 <!-- ME (Contact 관련) -->
 <br>
 <h3 align="center"> 📮 Contact 📮 </h3>
