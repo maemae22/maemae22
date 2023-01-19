@@ -68,6 +68,10 @@
 <!-- 티스토리 포스트 -->
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=maemae22&postId=90&theme=default)](https://maemae22.tistory.com/90)
 
+<!-- github stats -->
+![](https://github.com/maemae22/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://github.com/maemae22/github-stats-transparent/blob/output/generated/languages.svg)
+
 
 <!-- 3D 레고 블럭 (잔디) -->
 ![](./profile-3d-contrib/profile-gitblock.svg)
