@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/MyBatis-3A3A42?style=for-the-badge&logo=&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=&logoColor=white"/></a>&nbsp
@@ -51,7 +50,8 @@
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/DBeaver-D6CDC8?style=for-the-badge&logo=&logoColor=white"/></a>&nbsp 
   <br>
 </p>
