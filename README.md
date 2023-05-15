@@ -90,7 +90,7 @@
 <br>
   
 <!-- 3D 레고 블럭 (잔디) -->
-![](./profile-3d-contrib/profile-gitblock.svg)
+<!-- ![](./profile-3d-contrib/profile-gitblock.svg) -->
   
   </div>
 
